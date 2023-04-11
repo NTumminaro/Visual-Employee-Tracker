@@ -11,4 +11,4 @@ This is a content management system that runs as a command line application! Vis
 
 ## Screenshots
 
-![Screenshot](/assets/images/screenshot1.png)
+![Screenshot](/assets/images/screenshot.png)
